@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">List View Using Application</string>
+    <string-array name="bookNames">
+        <item>The Alchemist</item>
+        <item>Da Vanci Code</item>
+        <item>Harry Potter</item>
+    </string-array>
+    <string-array name="bookAuthors">
+        <item>Paulo Coelho</item>
+        <item>Dan Brown</item>
+        <item>JK Rowling</item>
+    </string-array>
+    <string-array name="bookPrices">
+        <item>10$</item>
+        <item>15$</item>
+        <item>12$</item>
+    </string-array>
+</resources>
